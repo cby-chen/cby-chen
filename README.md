@@ -91,11 +91,9 @@ https://developer.aliyun.com/profile/nghinjk6dyidw/ </br>
 https://bbs.huaweicloud.com/community/usersnew/id_1576987520942284/ </br>
 https://www.toutiao.com/c/user/token/MS4wLjABAAAAeqOrhjsoRZSj7iBJbjLJyMwYT5D0mLOgCoo4pEmpr4A/ </br>
 
-CSDN、GitHub、知乎、开源中国、思否、掘金、简书、腾讯云、阿里云、腾讯云、哔哩哔哩、今日头条、新浪微博、个人博客 </br> </br>
+CSDN、GitHub、知乎、微信公众号、开源中国、思否、掘金、简书、华为云、阿里云、腾讯云、哔哩哔哩、今日头条、新浪微博、个人博客 </br> </br>
 
 全网可搜《小陈运维》 </br> </br>
-
-文章主要发布于微信公众号：《Linux运维交流社区》 </br> </br>
 
 # 技术交流
 
