@@ -96,12 +96,11 @@ CSDN、GitHub、知乎、微信公众号、开源中国、思否、掘金、简�
 全网可搜《小陈运维》 </br> </br>
 
 # 技术交流
+加群：
+</br>
+![avatar](https://www.oiox.cn/about/1.png)
 
 作者：
 </br>
 ![avatar](https://www.oiox.cn/about/2.png)   
 </br>
-
-加群：
-</br>
-![avatar](https://www.oiox.cn/about/1.png)
