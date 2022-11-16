@@ -63,44 +63,75 @@
 <a href="http://www.oiox.cn/">个人网站</a> |  <a href="http://www.chenby.cn/">个人网站</a>  |  <a href="https://www.oiox.cn/index.php/start-page.html">关于我</a>  | <a href="https://blog.csdn.net/qq_33921750">CSDN</a> | <a href="https://juejin.cn/user/3315782802482007">掘金</a> | <a href="https://cloud.tencent.com/developer/column/93230">腾讯云</a> 
 </p>
 
-# 
- 
-# 小陈运维，致力于运维技术博客文档分享。互相学习，相互进步。 </br> </br>
+# **关于**
 
-小陈网站：</br>
-https://blog.oiox.cn/ </br>
-https://www.chenby.cn/ </br>
-https://www.oiox.cn/ </br>
-关于小陈：https://www.oiox.cn/index.php/start-page.html </br>
- </br>
- </br>
- 
-https://www.oiox.cn/ </br>
-https://blog.oiox.cn/ </br>
-https://www.chenby.cn/ </br>
-https://cby-chen.github.io/ </br>
-https://my.oschina.net/u/3981543/ </br>
-https://blog.csdn.net/qq_33921750/ </br>
-https://www.jianshu.com/u/0f894314ae2c/ </br>
-https://juejin.cn/user/3315782802482007/ </br>
-https://www.zhihu.com/people/chen-bu-yun-2/ </br>
-https://segmentfault.com/u/hppyvyv6/articles/ </br>
-https://space.bilibili.com/352476552/article/ </br>
-https://cloud.tencent.com/developer/column/93230 </br>
-https://developer.aliyun.com/profile/nghinjk6dyidw/ </br>
-https://bbs.huaweicloud.com/community/usersnew/id_1576987520942284/ </br>
-https://www.toutiao.com/c/user/token/MS4wLjABAAAAeqOrhjsoRZSj7iBJbjLJyMwYT5D0mLOgCoo4pEmpr4A/ </br>
 
-CSDN、GitHub、知乎、微信公众号、开源中国、思否、掘金、简书、华为云、阿里云、腾讯云、哔哩哔哩、今日头条、新浪微博、个人博客 </br> </br>
+**小陈运维，致力于运维技术博客文档分享。互相学习，相互进步。**
 
-全网可搜《小陈运维》 </br> </br>
+<br>
+
+# 小陈网站：   
+https://www.chenby.cn/  
+https://www.oiox.cn/  
+
+<br>
+
+# 小陈其他博客地址
+- https://www.oiox.cn/
+- https://blog.oiox.cn/
+- https://www.chenby.cn/
+- https://cby-chen.github.io/
+- https://my.oschina.net/u/3981543/
+- https://blog.51cto.com/u_12212643/
+- https://blog.csdn.net/qq_33921750/
+- https://www.jianshu.com/u/0f894314ae2c/
+- https://juejin.cn/user/3315782802482007/
+- https://www.zhihu.com/people/chen-bu-yun-2/
+- https://segmentfault.com/u/hppyvyv6/articles/
+- https://space.bilibili.com/352476552/article/
+- https://cloud.tencent.com/developer/column/93230
+- https://developer.aliyun.com/profile/nghinjk6dyidw/
+- https://bbs.huaweicloud.com/community/usersnew/id_1576987520942284/ 
+
+<br>
+<br>
+
+# 小陈导航    
+
+- 小陈运维 || https://www.oiox.cn/ ||  || 一号网站
+- 小陈运维 || https://www.chenby.cn/ ||  || 二号网站
+- 小陈运维 || https://blog.oiox.cn/ ||  || 三号网站
+- 小陈图床 || https://tc.oiox.cn/ ||  || 小陈图床
+- 维基百科 || https://wiki.chenby.cn/ ||  || 维基百科
+- 穿透-8 || https://frp-8.oiox.cn/  ||  || 穿透-8
+- 穿透-5 || https://frp-5.oiox.cn/ ||  || 穿透-5
+- PVE-1 || https://pve-1.oiox.cn/ ||  || PVE-1
+- PVE-2 || https://pve-2.oiox.cn/ ||  || PVE-2
+- 监控 ||  https://jk.oiox.cn/ ||  || 监控
+- DNS ||  https://dns.oiox.cn/ ||  || DNS
+- 云盘 ||  https://pan.oiox.cn/ ||  || 云盘
+- Aria ||  https://aria.oiox.cn/ ||  || Aria
+- Kubernetes文档 ||  https://doc.oiox.cn/ ||  || Kubernetes文档
+- vscode ||  https://vs.oiox.cn/ ||  || vscode 
+- 拒绝百度，从我做起 || https://cn.bing.com/ ||  || 必应
+- 拒绝百度，从我做起 || https://www.google.com/ ||  || Google
+- 拒绝百度，从我做起 || https://duckduckgo.com/ ||  || DuckDuckGo
+
+<br>
+<br>
 
 # 技术交流
-加群：
-</br>
-![avatar](https://www.oiox.cn/about/1.png)
+## 作者:   
+<img src=https://user-images.githubusercontent.com/46200206/200541597-6fcb7a4c-ebe6-425b-ac68-2eef3c7e6096.png width=30% /> 
 
-作者：
-</br>
-![avatar](https://www.oiox.cn/about/2.png)   
-</br>
+## 加群:  
+<img src=https://user-images.githubusercontent.com/46200206/200541372-16489249-5350-461b-8770-9135ea3813c9.png width=30% /> 
+
+<br>
+<br>
+
+> **CSDN、GitHub、51CTO、知乎、开源中国、思否、掘金、简书、华为云、阿里云、腾讯云、哔哩哔哩、今日头条、新浪微博、个人博客**
+>
+> **全网可搜《小陈运维》**
+>
+> **文章主要发布于微信公众号**
