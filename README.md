@@ -101,21 +101,7 @@ https://www.oiox.cn/
 - 小陈运维 || https://www.oiox.cn/ ||  || 一号网站
 - 小陈运维 || https://www.chenby.cn/ ||  || 二号网站
 - 小陈运维 || https://blog.oiox.cn/ ||  || 三号网站
-- 小陈图床 || https://tc.oiox.cn/ ||  || 小陈图床
-- 维基百科 || https://wiki.chenby.cn/ ||  || 维基百科
-- 穿透-8 || https://frp-8.oiox.cn/  ||  || 穿透-8
-- 穿透-5 || https://frp-5.oiox.cn/ ||  || 穿透-5
-- PVE-1 || https://pve-1.oiox.cn/ ||  || PVE-1
-- PVE-2 || https://pve-2.oiox.cn/ ||  || PVE-2
 - 监控 ||  https://jk.oiox.cn/ ||  || 监控
-- DNS ||  https://dns.oiox.cn/ ||  || DNS
-- 云盘 ||  https://pan.oiox.cn/ ||  || 云盘
-- Aria ||  https://aria.oiox.cn/ ||  || Aria
-- Kubernetes文档 ||  https://doc.oiox.cn/ ||  || Kubernetes文档
-- vscode ||  https://vs.oiox.cn/ ||  || vscode 
-- 拒绝百度，从我做起 || https://cn.bing.com/ ||  || 必应
-- 拒绝百度，从我做起 || https://www.google.com/ ||  || Google
-- 拒绝百度，从我做起 || https://duckduckgo.com/ ||  || DuckDuckGo
 
 <br>
 <br>
