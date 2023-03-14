@@ -78,9 +78,7 @@ https://www.oiox.cn/
 
 # 小陈其他博客地址
 - https://www.oiox.cn/
-- https://blog.oiox.cn/
 - https://www.chenby.cn/
-- https://cby-chen.github.io/
 - https://my.oschina.net/u/3981543/
 - https://blog.51cto.com/u_12212643/
 - https://blog.csdn.net/qq_33921750/
@@ -100,8 +98,6 @@ https://www.oiox.cn/
 
 - 小陈运维 || https://www.oiox.cn/ ||  || 一号网站
 - 小陈运维 || https://www.chenby.cn/ ||  || 二号网站
-- 小陈运维 || https://blog.oiox.cn/ ||  || 三号网站
-- 监控 ||  https://jk.oiox.cn/ ||  || 监控
 
 <br>
 <br>
