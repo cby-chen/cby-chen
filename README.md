@@ -94,15 +94,10 @@ https://www.oiox.cn/
 <br>
 <br>
 
-# 小陈导航    
-
-- 小陈运维 || https://www.oiox.cn/ ||  || 一号网站
-- 小陈运维 || https://www.chenby.cn/ ||  || 二号网站
-
-<br>
-<br>
-
 # 技术交流
+
+由于微信的限制，加群先添加好友之后，我拉您入群。
+
 ## 作者:   
 <img src=https://user-images.githubusercontent.com/46200206/200541597-6fcb7a4c-ebe6-425b-ac68-2eef3c7e6096.png width=30% /> 
 
