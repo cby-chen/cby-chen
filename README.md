@@ -94,19 +94,6 @@ https://www.oiox.cn/
 <br>
 <br>
 
-# 技术交流
-
-由于微信的限制，加群先添加好友之后，我拉您入群。
-
-## 作者:   
-<img src=https://user-images.githubusercontent.com/46200206/200541597-6fcb7a4c-ebe6-425b-ac68-2eef3c7e6096.png width=30% /> 
-
-## 加群:  
-<img src=https://user-images.githubusercontent.com/46200206/200541372-16489249-5350-461b-8770-9135ea3813c9.png width=30% /> 
-
-<br>
-<br>
-
 > **CSDN、GitHub、51CTO、知乎、开源中国、思否、掘金、简书、华为云、阿里云、腾讯云、哔哩哔哩、今日头条、新浪微博、个人博客**
 >
 > **全网可搜《小陈运维》**
